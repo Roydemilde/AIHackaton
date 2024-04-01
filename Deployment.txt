@@ -1,0 +1,1 @@
+./Starter-Deploy.ps1  -resourceGroup AI-Hackaton -location WestEurope -subscription 9ee1dbd0-2de3-4063-a953-4bdfc3252ccb -deployAks 0
